@@ -8,4 +8,4 @@
 - JOSUÉ, ANDREW, JULIO E FELIPE HY
 
 Andrew foi responsável pela estrutura geral em conjunto com Felipe, sendo Julio e Josué os responsáveis de
-estilização e Josué versionamento"# D4-CATALOGO-DE-PRODUTOS" 
+estilização e Josué versionamento 
